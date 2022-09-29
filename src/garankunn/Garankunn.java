@@ -16,6 +16,10 @@ public class Garankunn {
     public static void main(String[] args) {
         System.out.println("huhu");
         System.out.println("hshs");
+        while(true){
+            System.out.println("1234");
+            break;
+        }
     }
     
 }
