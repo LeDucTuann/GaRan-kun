@@ -18,7 +18,6 @@ public class Garankunn {
         System.out.println("hshs");
         while(true){
             System.out.println("1234");
-            break;
         }
     }
     
