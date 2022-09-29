@@ -15,6 +15,7 @@ public class Garankunn {
      */
     public static void main(String[] args) {
         System.out.println("huhu");
+        System.out.println("hshs");
     }
     
 }
