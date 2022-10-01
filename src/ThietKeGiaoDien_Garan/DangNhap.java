@@ -11,8 +11,8 @@ package ThietKeGiaoDien_Garan;
 public class DangNhap extends javax.swing.JFrame {
 
     /**
-     * Creates new form Dang nhap
-     */
+     * Creates new form Dang nhap test 2
+     */ 
     public DangNhap() {
         initComponents();
     }
